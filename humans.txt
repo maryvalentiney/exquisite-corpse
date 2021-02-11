@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Sidd Nair> -- <Programmer> 
+    
+    <Mary Valentine> -- <Programmer> -- <	
 
 # THANKS
 
-    <name>
+    <David Schaal, CU ATLAS Dept>
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    CSS3, HTML5, Adobe Illustrator, 
+    Collobarated on GitHub, jQuery, Modernizr, Normalize.css
