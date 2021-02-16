@@ -15,6 +15,10 @@ html {
   color: #222;
   font-size: 1em;
   line-height: 1.4;
+  background-image: url("../img/fairy-artwork-2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 /* COLOR PALETTE
