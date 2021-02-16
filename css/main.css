@@ -15,7 +15,6 @@ html {
   color: #222;
   font-size: 1em;
   line-height: 1.4;
-  overflow-y: hidden;
 }
 
 main{
@@ -36,8 +35,6 @@ p{
   font-family: fairy-tale-jf;
   color: white;
   font-size: 20pt;
-  margin: 200px;
-  padding-bottom: 200px;
   text-align: center;
 }
 
