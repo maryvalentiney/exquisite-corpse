@@ -17,6 +17,27 @@ html {
   line-height: 1.4;
 }
 
+main{
+
+  background-image: url("../img/fairy-background-gif.gif");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+@font-face {
+  font-family: fairy-tale-jf,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+p{
+  font-family: fairy-tale-jf;
+  color: white;
+  font-size: 20pt;
+  text-align: center;
+}
+
 /* COLOR PALETTE
     brown #6C452A
     orange #BF7D44
