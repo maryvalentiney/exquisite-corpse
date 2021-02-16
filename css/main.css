@@ -15,17 +15,47 @@ html {
   color: #222;
   font-size: 1em;
   line-height: 1.4;
-  background-color: #CBAF86;
+    background-image: url("../img/fairy-background-gif.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.back{
+  position: sticky;
+  bottom: 10px;
+  height: 100px;
+  width: auto;
+}
+
+.next{
+  position: sticky;
+  bottom: 10px;
+  height: 100px;
+  width: auto;
+}
+
+#first{
+  display: block;
+  padding-bottom: 150px;
+}
+
+#second{
+  display: none;
+  padding-bottom: 100px;
+}
+
+#third{
+  display: none;
+  padding-bottom: 50px;
+}
+
+#fourth{
+  display: none;
+  padding-bottom: 40px;
 }
 
 
-main{
-
-  background-image: url("../img/fairy-background-gif.gif");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: auto;
-}
 
 @font-face {
   font-family: fairy-tale-jf,sans-serif;
