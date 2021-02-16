@@ -15,10 +15,30 @@ html {
   color: #222;
   font-size: 1em;
   line-height: 1.4;
-  background-image: url("../img/fairy-background-2.png");
+  overflow-y: hidden;
+}
+
+main{
+
+  background-image: url("../img/fairy-background-gif.gif");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+}
+
+@font-face {
+  font-family: fairy-tale-jf,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+p{
+  font-family: fairy-tale-jf;
+  color: white;
+  font-size: 20pt;
+  margin: 200px;
+  padding-bottom: 200px;
+  text-align: center;
 }
 
 /* COLOR PALETTE
