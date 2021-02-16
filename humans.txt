@@ -3,9 +3,13 @@
 
 # TEAM
 
-    <Sidd Nair> -- <Programmer> 
-    
-    <Mary Valentine> -- <Programmer> -- <	
+    <Sidd Nair> -- <Programmer>
+
+    <Mary Valentine> -- <Programmer> -- <
+
+    <Destin Woods> -- <Programmer>
+
+    <Victoria Rios> -- <Programmer>
 
 # THANKS
 
@@ -13,5 +17,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5, Adobe Illustrator, 
+    CSS3, HTML5, Adobe Illustrator,
     Collobarated on GitHub, jQuery, Modernizr, Normalize.css
